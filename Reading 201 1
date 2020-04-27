@@ -1,0 +1,32 @@
+<!DOCTYPE html>>
+
+<h1> Reading 1 Notes/h1>
+
+<p> HTML is the language that is used to structure all web pages on the internet.
+HTML is short for hyper	text markup	language </p>
+
+<p> HTML has a openning and a closing tag. DOCTYPES tells the browser which version of HTML is being used.
+In HTML, there is a ID and Class attribute. This can be used to uniquely identify an element. ID element
+can only be used for one spefic element vs class which can be used for anyting.</p>
+
+<h2> Examples of most common HTML elements</h2>
+
+<ol>
+
+<li> <body></body>: Everything in this is inside the main browser window.</li>
+
+<li> <ul></ul>: Unordered List </li>
+
+<li> Div elmemnt will set elements together in a block level box.</li>
+
+<h3> HTML 5 </h3>
+
+<p> HTML 5 is now what is provided o provide structure for a web page. In this, there is new code/cleaner code
+To make the most out of HTML 5 wirefarming is really helpful. It is bascilly making a blueprint
+before you go off and make your website. Some of the best websites out there come from wirefamring.</p>
+
+<h4> ABC of Progrmaing </h4>
+
+<p> Script is a  certain set of instructions that a computer can use to achieve a specific goal.
+The brower may have to run a little bit diffrent depnidng on the script. In oder to have the modt smooth running
+website it is always best to have HTML,CSS and Java to have thier own seperate files.</p>
