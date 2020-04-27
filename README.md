@@ -1,4 +1,3 @@
-# Code-201-Learning-Journal-
 <!DOCTYPE html>>
 
 <h1>Code 201 notes/h1>
