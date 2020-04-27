@@ -13,9 +13,9 @@
 
 <li> learning jorunal 2</li>
 
-<li> learning jorunal 3/li>
+<li> learning jorunal 3</li>
 
-<li> learning jorunal 4/li>
+<li> learning jorunal 4</li>
 
 <li> learning jorunal 5</li>
 
