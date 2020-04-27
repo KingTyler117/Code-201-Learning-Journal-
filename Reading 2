@@ -1,0 +1,64 @@
+<!DOCTYPE html>>
+
+<htm>
+
+<h1> Reading 2 Notes/h1>
+
+<p> This is my takeways for the Reading</p>. 
+
+<h2> Chapter 2 takeways</h2>
+
+<ol>
+
+<li> Text is very imporant for a HTML tag</li>
+
+<li> One exmample of this is the < h1> heading. This is a main heading for a webpage</li>
+
+<li> Another imporant tag is the <P> tage. This lets you to be able to create a paragrpah.</li>
+
+<li> One imporant tag to get to know is the <br > tag. This lets you break up line of text so it is easier to read.</li>
+
+<li> Depnding on the type of loop, it could cause your computer to crash
+in some cases./li>
+
+
+<ol>
+
+ <h3> Chapter 10 takewyas</h3>   
+
+<li> This chapter talks about how to make lists in HTML</li>
+
+<li> The two most imporant lists that you shoulf know are orderded and un orderd lists.</li>
+
+<li> There are even more lists out in the interent world. You can always look them up </li>
+
+</ol>
+
+<h3>Chapter 2 take ways</h3>
+
+<ol>
+
+ <li>This chapter talks about some of the basci Java sciprt elements you will get to know</li> 
+ 
+ <li> One example of this is a statement. Statement is a seris of instructions that a computer has to follow one by one</li>
+
+ <li> Another imporant thing to know is a variable. It stores data in them so it can do its job</li>
+
+ <li> An Array is a special type of variable. It can store lists of vaules</li>
+
+ <li> These basic things will help to make any webpage have some pop</li>
+
+</ol>
+
+<h4> Chapter 4 takeways</h4>
+
+<ol>
+
+<li> Conditional statements will make code to make decsions to do next</li>
+
+<li> Logical Operators let you combine more than one comparison of the operatots</li>
+
+<li> Data types string togther from one to aonther</li>
+
+
+</ol>
